@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../Git-HTML-CSS"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
